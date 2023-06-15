@@ -1,0 +1,5 @@
+﻿  color.h
+  main.cpp
+  vec3.h
+main.obj : error LNK2005: "void __cdecl write_color(class std::basic_ostream<char,struct std::char_traits<char> > &,class vec3)" (?write_color@@YAXAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@Vvec3@@@Z) already defined in color.obj
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\x64\Release\MyRayTracing.exe : fatal error LNK1169: one or more multiply defined symbols found

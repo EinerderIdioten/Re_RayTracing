@@ -1,0 +1,79 @@
+﻿  color.cpp
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(9,21): error C2143: syntax error: missing ',' before '&'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,12): error C3646: 'origin': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,18): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,10): error C3646: 'direction': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,19): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,28): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,12): error C3646: 'at': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,14): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,31): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(21,12): error C3646: 'orig': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(21,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(22,10): error C3646: 'dir': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(22,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,16): error C2065: 'origin': undeclared identifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,29): error C2065: 'direction': undeclared identifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,11): error C2614: 'ray': illegal member initialization: 'orig' is not a base or member
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,25): error C2614: 'ray': illegal member initialization: 'dir' is not a base or member
+  color.h
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(9,21): error C2143: syntax error: missing ',' before '&'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,12): error C3646: 'origin': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,18): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,10): error C3646: 'direction': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,19): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,28): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,12): error C3646: 'at': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,14): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,31): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(21,12): error C3646: 'orig': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(21,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(22,10): error C3646: 'dir': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(22,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,16): error C2065: 'origin': undeclared identifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,29): error C2065: 'direction': undeclared identifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,11): error C2614: 'ray': illegal member initialization: 'orig' is not a base or member
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,25): error C2614: 'ray': illegal member initialization: 'dir' is not a base or member
+  main.cpp
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(9,21): error C2143: syntax error: missing ',' before '&'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,12): error C3646: 'origin': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,18): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(13,27): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,10): error C3646: 'direction': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,19): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(14,28): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,12): error C3646: 'at': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,14): error C2059: syntax error: '('
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(16,31): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(21,12): error C3646: 'orig': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(21,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(22,10): error C3646: 'dir': unknown override specifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(22,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,16): error C2065: 'origin': undeclared identifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,29): error C2065: 'direction': undeclared identifier
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,11): error C2614: 'ray': illegal member initialization: 'orig' is not a base or member
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(10,25): error C2614: 'ray': illegal member initialization: 'dir' is not a base or member
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\hittable.h(14,28): error C2039: 'direction': is not a member of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(6,7): message : see declaration of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\camera.h(21,19): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\camera.h(21,19): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(18,17): error C2039: 'origin': is not a member of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(6,7): message : see declaration of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(19,16): error C2039: 'direction': is not a member of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(6,7): message : see declaration of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(20,29): error C2039: 'direction': is not a member of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(6,7): message : see declaration of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(20,19): error C2660: 'dot': function does not take 1 arguments
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\vec3.h(115,15): message : see declaration of 'dot'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(20,19): message : while trying to match the argument list '(vec3)'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(22,32): error C3536: 'half_b': cannot be used before it is initialized
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(22,45): error C3536: 'a': cannot be used before it is initialized
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\main.cpp(39,41): error C2039: 'direction': is not a member of 'ray'
+C:\Users\JingchaoKong\myRayTracingInWeekend\MyRayTracing\MyRayTracing\ray.h(6,7): message : see declaration of 'ray'
+  sphere.cpp
+  Generating Code...
